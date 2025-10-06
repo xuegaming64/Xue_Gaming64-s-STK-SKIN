@@ -1,5 +1,13 @@
 Xue_Gaming64's STK SKIN MOD OMG
 
+
+  ___ _   _ ___ ___ ___                 __  ___   _ ___                        _  __   _   ___ _____ 
+ / __| | | | _ \ __| _ \                \ \/ / | | | __|                      | |/ /  /_\ | _ \_   _|
+ \__ \ |_| |  _/ _||   /                 >  <| |_| | _|                       | ' <  / _ \|   / | |  
+ |___/\___/|_| |___|_|_\                /_/\_\\___/|___|                      |_|\_\/_/ \_\_|_\ |_|  
+
+
+
 How To Install it?
 
 too ez
@@ -10,4 +18,4 @@ too ez
 
 3 same thing if you know how to install SuperXueKart Sounds theme  Press Ctrl + a and Ctrl + C or Ctrl + x  Move corsor all file folders and right click and choose Copy  or cut
 
-C:/ProgramFile x86/supertuxkart/data and paste here
+C:/ProgramFile x86/supertuxkart/data and paste here                                                                                                 
