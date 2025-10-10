@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<music title    = "Moo Moo Meadows"
-       composer = "Mario Kart WII"
-       file	= "farm.ogg"
-       fast	= "false"
-       fast-filename = "farm_f.ogg"
-       gain	= "1"/>

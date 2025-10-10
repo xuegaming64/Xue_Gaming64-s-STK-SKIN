@@ -1,3 +1,0 @@
-drag folder sfx and music into C:/Program File x86/SuperTuxKart/data  and paste then.
-
-Linux: /usr/share/games/supertuxkart/data/
