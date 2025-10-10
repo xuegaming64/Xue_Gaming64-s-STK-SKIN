@@ -11,3 +11,6 @@ too ez
 3 same thing if you know how to install SuperXueKart Sounds theme  Press Ctrl + a and Ctrl + C or Ctrl + x  Move corsor all file folders and right click and choose Copy  or cut
 
 C:/ProgramFile x86/supertuxkart/data and paste here                                                                                                 
+
+
+You Can Also See Releases Enjoy!!
