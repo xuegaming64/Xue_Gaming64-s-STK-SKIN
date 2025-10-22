@@ -8,9 +8,9 @@ How To Install it?
 
 too ez
 
-In `SuperXueKart Skin Theme` and `SuperXueKart Sounds`extract, select all for example po, skins, models and others and copy the folder `data` and paste it into:
+In `SuperXueKart Skin Theme` and `SuperXueKart Sounds`extract, select all for example po, skins, models and others and copy the folder and paste it into:
 
-  - Windows:`C:\Program Files\SuperTuxKart 1.5-rc2\`
+  - Windows:`C:\Program Files\SuperTuxKart 1.5-rc2\data\`
   - - Linux:`/usr/share/games/supertuxkart/data` ROOT NEEDED!!                                                                                              
 
 
