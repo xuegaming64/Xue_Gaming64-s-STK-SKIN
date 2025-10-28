@@ -23,3 +23,5 @@ Shortcut Keys!!
 `Ctrl + c` Copy
 `Ctrl + v` Paste
 `Ctrl + a` Select All
+
+Don't forget to set Skin to SXK THEME MOD   HAVE FUN ;D
