@@ -5,9 +5,6 @@
 
 
 To Install Skin Theme Please go to Releases!!!                                                                                
-
-
-You Can Also See Releases Enjoy!!
 ![Nice models what i made.](/banner2.png)
 
 
